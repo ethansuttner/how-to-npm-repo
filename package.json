@@ -6,11 +6,19 @@
   "scripts": {
     "test": "node test.js"
   },
-  "keywords": [
-  ],
+  "keywords": [],
   "author": "Ethan Suttner",
   "license": "ISC",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethansuttner/how-to-npm-repo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ethansuttner/how-to-npm-repo/issues"
+  },
+  "homepage": "https://github.com/ethansuttner/how-to-npm-repo#readme"
 }
